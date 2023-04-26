@@ -6,7 +6,7 @@
 
 ## KochavaCore
 
-The KochavaCore xcframework provides core support for all modules within the Kochava SDK for the Apple platform— including iOS, macCatalyst, macOS, tvOS, and watchOS.
+The KochavaCore xcframework is a module within the Kochava SDK providing core networking support for all modules within the Kochava SDK.  For the Apple platform this includes iOS, macCatalyst, macOS, tvOS, and watchOS.
 
 The Kochava SDK is a lightweight and easy to integrate SDK written in Swift, providing first-class integration with Kochava’s industry leading mobile attribution and analytics platform.  
 
